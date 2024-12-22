@@ -27,3 +27,4 @@
 ## I'm looking forward to collaborate in Software Development projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dndannynguyen/)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat-square)](mailto:dn.dannynguyen@hotmail.com)
